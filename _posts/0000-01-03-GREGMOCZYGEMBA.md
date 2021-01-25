@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-mickymouse
+mickymousedonaldduck
 Use the left arrow to go back!
